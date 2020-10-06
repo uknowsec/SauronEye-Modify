@@ -6,17 +6,6 @@ namespace SauronEye {
     public class Program {
 
 
-        /*
-         public static void Main(string[] args)
-         {
-             List<string> list = new List<string>();
-             list.Add(@"C:\Users\HP\Desktop\22\11.py");
-             list.Add(@"C:\Users\HP\Desktop\22\22.cs");
-             list.Add(@"C:\Users\HP\Desktop\22\33.txt");
-             zipfile(list, args[0], args[1], args[2], args[3]);
-         }
-
-        */
             public static void Main(string[] args) {
                 Console.WriteLine("\n\t === SauronEye Modify by Uknow  === \n");
 
