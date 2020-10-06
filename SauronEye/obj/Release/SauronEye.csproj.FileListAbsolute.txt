@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\bin\Release\SauronEye.exe.config
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\bin\Release\SauronEye.exe
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\bin\Release\SauronEye.pdb
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\bin\Release\OpenMcdf.xml
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Release\SauronEye.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Release\SauronEye.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Release\SauronEye.csproj.Fody.CopyLocal.cache
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Release\SauronEye.csproj.CopyComplete
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Release\SauronEye.exe
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Release\SauronEye.pdb
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\bin\Release\Aliyun.OSS.xml

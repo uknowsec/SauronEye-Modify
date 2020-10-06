@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Debug\SauronEye.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Debug\SauronEye.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Debug\SauronEye.exe
+C:\Users\HP\Desktop\SauronEye-master\src\SauronEye\obj\Debug\SauronEye.pdb
