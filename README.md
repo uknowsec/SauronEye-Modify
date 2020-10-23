@@ -32,4 +32,4 @@ Options:
   -h, --help                 Show help
   ```
   
-  ![](https://github.com/uknowsec/SauronEye-Modify/blob/main/20201023164554.png)
+  ![](https://github.com/uknowsec/SauronEye-Modify/blob/main/20201023170234.png)
